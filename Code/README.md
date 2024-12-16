@@ -10,7 +10,7 @@ In the `Notebooks` folder, you will find the essential Jupyter Notebook files th
 
 2. **01_CleaningCarMax_Data.ipynb**
 
-   - **Purpose**: This Python notebook contains the code that scraped.
+   - **Purpose**: This Python notebook contains the code that cleaned teh CarMax data.
    - **Content**: The notebook focuses on retrieving relevant data from CarMax and preprocessing it by handling missing values, outliers, and other data cleaning tasks.
    - **File Location**: `Notebooks/CarMaxScrapedCleaned.ipynb`
 
