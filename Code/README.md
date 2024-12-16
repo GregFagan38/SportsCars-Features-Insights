@@ -1,6 +1,6 @@
 ## Notebooks Folder
 
-In the `Notebooks` folder, you will find the essential Jupyter Notebook files that were used throughout the project. **If you wish to run the notebooks, please run them in order from top to bottom by name prefix**
+In the `Notebooks` folder, you will find the essential Jupyter Notebook files that were used throughout the project. **If you wish to run the notebooks, please run them in order from top to bottom by name prefix**.
 
 1. **00_CarMaxScrapedCleaned.ipynb**
 
