@@ -16,4 +16,4 @@ This project explores data from Kaggle’s Sports Car Price Dataset and addition
 
 ## Instructions
 
-The repository is broken down into three folders consisting of infromation on the data, report, visuals, and code used in the project. Each folder will have a "README.md" fiel to explain how to navigate the folders.
+The repository is broken down into three folders consisting of infromation on the data, report, visuals, and code used in the project. Each folder will have a "README.md" file to explain how to navigate the folders.
