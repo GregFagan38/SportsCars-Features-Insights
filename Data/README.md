@@ -1,7 +1,8 @@
 # Data Cleaning Process
 
 **Kaggle Raw Data Link:** https://www.kaggle.com/datasets/rkiattisak/sports-car-prices-dataset/data
-** Scraped website, CarMax:** https://www.carmax.com/cars/sports-cars
+
+**Scraped website, CarMax:** https://www.carmax.com/cars/sports-cars
 
 ## Overview
 
