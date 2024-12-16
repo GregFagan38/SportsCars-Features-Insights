@@ -9,7 +9,7 @@ The raw dataset underwent several cleaning steps to ensure accuracy, consistency
 
 ---
 
-## Steps to Clean
+## Cleaning Process
 
 ### 1. **Removal of Unnecessary Columns**
 
